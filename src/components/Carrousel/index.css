@@ -22,16 +22,19 @@
     opacity: 1 !important;
     width: 0px;
 }
-
-/* .css-doq0dk:hover + .css-1qzevvg {
-    display: flex !important;
-} */
-
+.css-1qzevvg img{
+    height: 100%;
+}
 @media (max-width: 850px) {
 
 .image_style{
     width: 201px;
     height: 116px;
 }
-
+.css-1qzevvg{
+    top: -164px !important ;
+}
+.css-1qzevvg img{
+    height: 50% !important;
+}
 }
