@@ -1,0 +1,37 @@
+.image_style {
+    width: 400px;
+    height: 400px;
+}
+
+.css-1fzpoyk img{
+    object-fit: cover !important;
+}
+
+.css-1qzevvg{
+    width: 100% !important;
+    top: -175px !important;
+    z-index: 999 !important;
+}
+
+.css-doq0dk{
+    width: 98% !important;
+    height: 54% !important;
+}
+
+.css-1fzpoyk {
+    opacity: 1 !important;
+    width: 0px;
+}
+
+/* .css-doq0dk:hover + .css-1qzevvg {
+    display: flex !important;
+} */
+
+@media (max-width: 850px) {
+
+.image_style{
+    width: 201px;
+    height: 116px;
+}
+
+}
